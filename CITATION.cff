@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Madsen
-    given-names: Bo Schwartz
   - family-names: Kjaerum
     given-names: Alexander
+  - family-names: Madsen
+    given-names: Bo Schwartz
 title: "Pushing the boundaries of anticipatory action using machine learning"
 version: 2.0.4
 date-released: 2023-11-30
